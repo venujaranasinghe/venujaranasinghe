@@ -9,7 +9,7 @@ I'm an undergraduate computer science student at SLIIT with a passion for buildi
 - **Data Analysis**: R, Statistics, Algorithm Design
 
 ## 🚀 Goals:
-- Enhance my backend development skills with Spring Boot
+- Enhance my backend development skills 
 - Build more real-world applications and contribute to open-source projects
 - Continuously improve my data analysis and algorithm design skills
 
