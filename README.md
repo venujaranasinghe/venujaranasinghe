@@ -34,6 +34,7 @@
 </table>
 
 <h2 align="center">📈Github Statistics:</h2>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venujaranasinghe&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -121,8 +122,15 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
       </p>
+<p align="center">Leave a ⭐️ if you like this template and want to modify it for yourself!
+----
+Credit: [venujaranasinghe](https://github.com/venujaranasinge)
+</p>
 </div>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
-
+Leave a ⭐️ if you like this template and want to modify it for yourself!
+----
+Credit: [venujaranasinghe](https://github.com/venujaranasinge)
 </br></br>
 --->
