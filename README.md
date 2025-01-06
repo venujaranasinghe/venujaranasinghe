@@ -1,5 +1,9 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</p>
+
 <h1 align="center">I'm Venuja Ranasinghe</h1>
+
 
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology. 
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="scar1109" /> </p>
