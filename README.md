@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </p>
+
 
 <h1 align="center">I'm Venuja Ranasinghe</h1>
 
@@ -39,7 +40,7 @@
 <br><br>
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" /> </p>
 <hr>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venujaranasinghe&theme=tokyonight_duo" alt="7oSkaaa" /></p>
@@ -49,7 +50,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venujaranasinghe&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br><br>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" /> </p>
 <hr>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -99,7 +100,7 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" /> </p>
 <hr>
 <p align="center">
 <a href="www.linkedin.com/in/venuja-ranasinghe" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
@@ -112,7 +113,7 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" /> </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
