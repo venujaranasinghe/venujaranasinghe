@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Venuja Ranasinghe</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;" />
+<h1 align="center">I'm Venuja Ranasinghe</h1>
 
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology. 
 
@@ -32,6 +33,12 @@
   </td>
 </tr>
 </table>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
 <h2 align="center">📈Github Statistics:</h2>
 
