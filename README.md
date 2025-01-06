@@ -34,10 +34,11 @@
 </tr>
 </table>
 
-### Watch a snake eat my contributions 🐍
-
-![snake gif](https://github.com/venujaranasinghe/venujaranasinghe/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/venujaranasinghe/venujaranasinghe/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
 <h2 align="center">📈Github Statistics:</h2>
 
