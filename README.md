@@ -1,9 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" /> </p>
 <h1 align="center">I'm Venuja Ranasinghe</h1>
 
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology. 
-
-
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="scar1109" /> </p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -33,23 +32,21 @@
   </td>
 </tr>
 </table>
+<br><br>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/venujaranasinghe/venujaranasinghe/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
 
-<h2 align="center">📈Github Statistics:</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" /> </p>
+<hr>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venujaranasinghe&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=venujaranasinghe&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venujaranasinghe&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
+<br><br>
 
-<h2 align="center">🔧Languages and Tools:</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" /> </p>
+<hr>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
@@ -94,50 +91,47 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> 
   </a> 
 </p>
+<br><br>
 
 
-<h2 align="center">📫 Let's connect!</h2>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" /> </p>
+<hr>
 <p align="center">
 <a href="www.linkedin.com/in/venuja-ranasinghe" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/26648053/venuja-ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://web.facebook.com/venuja.ranasinghe.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/la_venuja/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
+<br><br>
 
----
 
+
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" /> </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</p>
+<br>
+
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venujaranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dinosaur GIF">
+</p>
+-->
 
 
-<!---
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
 	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-      </p>
-<p align="center">Leave a ⭐️ if you like this template and want to modify it for yourself!
+
 ----
 Credit: [venujaranasinghe](https://github.com/venujaranasinge)
 </p>
 </div>
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 </details>
 Leave a ⭐️ if you like this template and want to modify it for yourself!
-----
-Credit: [venujaranasinghe](https://github.com/venujaranasinge)
-</br></br>
---->
+
+
