@@ -127,6 +127,7 @@
 	
 
 ----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=venujaranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 Credit: [venujaranasinghe](https://github.com/venujaranasinge)
 </p>
 </div>
