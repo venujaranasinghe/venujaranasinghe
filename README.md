@@ -34,11 +34,10 @@
 </tr>
 </table>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+### Watch a snake eat my contributions 🐍
+
+![snake gif](https://github.com/venujaranasinghe/venujaranasinghe/blob/output/github-contribution-grid-snake.svg)
+
 
 <h2 align="center">📈Github Statistics:</h2>
 
