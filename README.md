@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">I'm Venuja Ranasinghe</h1>
+<h1 align="center">I'm Venuja Ranasinghe.</h1>
 
 
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology. 
