@@ -52,7 +52,12 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" /> </p>
 <hr>
-<p align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,prisma,express,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,c,illustrator,react,spring,tensorflow,ts,vscode,&perline=14" />
+  </a>
+</p>
+<!-- <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
   </a> 
@@ -95,7 +100,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> 
   </a> 
-</p>
+</p> -->
 <br><br>
 
 
