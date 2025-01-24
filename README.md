@@ -1,18 +1,29 @@
 <!-- Centered Typing Animation Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </p>
 
+
+
 <!-- Main Title -->
+
 <h1 align="center">I'm Venuja Ranasinghe.</h1>
 
+
+
 <!-- Introduction Section -->
+
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology.</p>
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Animated Gif" />
 </p>
 
+
+
+
 <!-- About Me and Goals Section -->
+
 <table align="center">
 <tr border="none">
   <!-- About Me Column -->
@@ -28,6 +39,7 @@
   </td>
 
   <!-- Goals Column -->
+  
   <td width="50%" align="left">
     <h2 align="center">🚀 Goals:</h2>
     <ul>
@@ -40,7 +52,11 @@
 </table>
 <br><br>
 
+
+
+
 <!-- GitHub Statistics Section -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" />
 </p>
@@ -53,7 +69,11 @@
 </p>
 <br><br>
 
+
+
+
 <!-- Languages and Tools Section -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" />
 </p>
@@ -65,7 +85,12 @@
 </p>
 <br><br>
 
+
+
+
+
 <!-- Social Media Links Section -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" />
 </p>
@@ -86,7 +111,12 @@
 </p>
 <br><br>
 
+
+
+
+
 <!-- Favorite Quote Section -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" />
 </p>
@@ -95,7 +125,11 @@
 </p>
 <br>
 
+
+
+
 <!-- Footer Section -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venujaranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
