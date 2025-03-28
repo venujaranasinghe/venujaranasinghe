@@ -1,7 +1,7 @@
 <!-- Centered Typing Animation Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </p>
 
 
@@ -58,7 +58,7 @@
 <!-- GitHub Statistics Section -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" />
 </p>
 <hr>
 <p align="center">
@@ -78,7 +78,7 @@
 <!-- Languages and Tools Section -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=70&lines=🔧+Languages+and+Tools+:" alt="Typing Animation" />
 </p>
 <hr>
 <p align="center">
@@ -95,7 +95,7 @@
 <!-- Social Media Links Section -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=70&lines=📫+Let's+connect!" alt="Typing Animation" />
 </p>
 <hr>
 <p align="center">
@@ -121,7 +121,7 @@
 <!-- Favorite Quote Section -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=D3D3D3&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=70&lines=✨+Favorite+Quote+✨" alt="Typing Animation" />
 </p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
