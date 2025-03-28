@@ -5,7 +5,6 @@
 </p>
 
 
-
 <!-- Main Title -->
 
 <h1 align="center">I'm Venuja Ranasinghe.</h1>
@@ -16,7 +15,8 @@
 
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology.</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Animated Gif" />
+<!--   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Animated Gif" /> -->
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
 
