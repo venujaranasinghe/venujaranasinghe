@@ -1,33 +1,25 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
-    - cron: "0 18 * * *"  # Runs daily at 18:00 UTC
-  workflow_dispatch:  # Allows manual execution
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contrib
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: venujaranasinghe
-
-      - name: Move the Generated SVG to Public Folder
+      - name: Commit & Push
         run: |
-          mkdir -p profile-3d-contrib  # Create the folder
-          mv profile-3d-contrib/*.svg profile-3d-contrib/  # Move the generated SVG file
-
-      - name: Commit & Push Changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add profile-3d-contrib/*.svg
-          git commit -m "Updated 3D contribution graph" || echo "No changes to commit"
-          git push
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
