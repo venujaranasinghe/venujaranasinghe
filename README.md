@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </p>
 
-
 <!-- Main Title -->
 
 <h1 align="center">I'm Venuja Ranasinghe.</h1>
