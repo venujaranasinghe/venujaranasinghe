@@ -17,7 +17,12 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: venujaranasinghe  # Your GitHub username
+          USERNAME: venujaranasinghe
+
+      - name: Move the Generated SVG to Public Folder
+        run: |
+          mkdir -p profile-3d-contrib  # Create the folder
+          mv profile-3d-contrib/*.svg profile-3d-contrib/  # Move the generated SVG file
 
       - name: Commit & Push Changes
         run: |
