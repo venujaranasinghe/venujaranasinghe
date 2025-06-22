@@ -33,7 +33,7 @@
       <li>🌱 I’m currently learning Web Development and other programming languages</li>
       <li>🧑‍🎓 I’m an Undergraduate at <strong>SLIIT</strong></li>
       <li>📫 How to reach me: <strong>venuja12345@gmail.com</strong></li>
-      <li>📫 My Portfolio: <strong>[venujaranasinghe](https://venujaranasinghe.github.io/portfolio-react/)</strong></li>
+      <li>📫 My Portfolio: <strong>[https://la-venuja.vercel.app/]</strong></li>
       <li>⚡ Fun fact: Still finding...</li>
     </ul>
   </td>
