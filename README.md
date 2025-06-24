@@ -140,7 +140,7 @@
 <p align="center">
   Credit: <a href="https://github.com/venujaranasinghe">venujaranasinghe</a>
 </p>
-<p align="center">Leave a ⭐️ if you like this template and want to modify it for yourself!</p>
+<!-- <p align="center">Leave a ⭐️ if you like this template and want to modify it for yourself!</p> -->
 
 
 
