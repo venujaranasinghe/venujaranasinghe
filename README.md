@@ -141,6 +141,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 
 
@@ -150,8 +153,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venujaranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<!-- Final Credit -->
 <p align="center">
-  Credit: <a href="https://github.com/venujaranasinghe">venujaranasinghe</a>
+  <i>💫 Crafted with ❤️ by <a href="https://github.com/venujaranasinghe">Venuja Ranasinghe</a> 💫</i>
 </p>
 <!-- <p align="center">Leave a ⭐️ if you like this template and want to modify it for yourself!</p> -->
 
