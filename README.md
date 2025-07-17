@@ -18,9 +18,13 @@
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Animated Gif" /> -->
 <!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" /> -->
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/venujaranasinghe/venujaranasinghe/main/dp.jpg" width="300" alt="Venuja's Profile Picture"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/venujaranasinghe/venujaranasinghe/main/dp.jpg"
+       width="250"
+       style="border-radius: 50%; box-shadow: 0 0 20px 5px #00ff00;"
+       alt="Venuja's Profile Picture" />
 </div>
+
 </p>
 
 
