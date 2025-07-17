@@ -17,7 +17,10 @@
 <p align="center">I'm an undergraduate computer science student at SLIIT with a passion for building innovative projects and solving real-world problems through technology.</p>
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Animated Gif" /> -->
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+<!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" /> -->
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/venujaranasinghe/venujaranasinghe/main/dp.jpg" width="300" alt="Venuja's Profile Picture"/>
+</div>
 </p>
 
 
@@ -62,14 +65,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2AA889&center=true&width=600&height=70&lines=📈+Github+Statistics+:" alt="Typing Animation" />
 </p>
 <hr>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=venujaranasinghe&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venujaranasinghe&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/>
-</p>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=venujaranasinghe&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+  <img src="https://github-readme-stats.vercel.app/api?username=venujaranasinghe&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=2AA889&icon_color=58A6FF&text_color=C9D1D9" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venujaranasinghe&langs_count=12&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2AA889&text_color=C9D1D9" height="200px"/>
+</div>
+
+
+
+<!-- <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=venujaranasinghe&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15"> -->
+
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venujaranasinghe&bg_color=0D1117&color=2AA889&line=58A6FF&point=FF6B6B&area=true&hide_border=true&custom_title=🔥%20Contribution%20Activity%20Graph%20🔥" width="95%">
+</div>
 </div>
 <br><br>
 
